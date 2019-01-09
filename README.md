@@ -1,7 +1,7 @@
 # CNN_Facial_Keypoint_Detection
 PyTorch CNN for Facial Keypoint Detection
 
-In this project we train a PyTorch CNN to detect facial keypoints.
+In this project we train a PyTorch CNN to detect facial keypoints in images.
 
 # Steps:
 
