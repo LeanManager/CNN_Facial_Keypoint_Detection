@@ -63,3 +63,5 @@ Optional:
 * Use the keypoints around a person's mouth to estimate the curvature of their mouth and create a smile recognition algorithm .
 * Use OpenCV's k-means clustering algorithm to extract the most common facial poses (left, middle, or right-facing, etc.).
 * Use the locations of keypoints on two faces to swap those faces.
+
+## If workspace_utils.py is producing errors, simply do not use that module. When calling train_net(n_epochs), remove 'with active_session():' and un-ident the code inside it.
